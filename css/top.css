@@ -1,0 +1,28 @@
+body,
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#productCenter {
+  width: 1366px;
+  margin: auto;
+}
+#productCenter .top {
+  height: 129px;
+  background-color: blueviolet;
+}
+#productCenter .top .topNav {
+  margin-right: 314px;
+  color: #ffffff;
+  background-color: #0f6ac9;
+}
+#productCenter .top .topNav > div {
+  float: right;
+}
+#productCenter .top .topNav a {
+  height: 22px;
+  line-height: 22px;
+  text-decoration: none;
+  color: #ffffff;
+}
+/*# sourceMappingURL=top.css.map */
